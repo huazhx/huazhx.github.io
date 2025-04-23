@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhenhua Xu (许振华)"
+title: "Zhenhua Xu"
 author_profile: true
 redirect_from: 
   - /about/
