@@ -9,9 +9,9 @@ redirect_from:
 
 ## About Me
 
-I am currently a graduate student candidate at Peking University School of Software and Microelectronics. I completed my undergraduate studies at Beijing University of Posts and Telecommunications (BUPT), majoring in Software Engineering in the School of Computer Science.
+I completed my undergraduate studies at Beijing University of Posts and Telecommunications (BUPT), majoring in Software Engineering in the School of Computer Science.
 
-During my undergraduate studies, I maintained a weighted average score of 88.77, with a GPA of 3.72, ranking in the top 20% of my major. I am also a member of the Chinese Communist Party.
+During my undergraduate studies, I maintained a weighted average score of 88.77, with a GPA of 3.72, ranking in the top 20% of my major.
 
 ## Academic Interests
 
@@ -21,8 +21,6 @@ I have a strong interest in artificial intelligence and its practical applicatio
 
 - Passed the College English Test Band 6 (CET-6)
 - Received the University Second-Class Scholarship
-- Named an "Outstanding Student" at the university level
-- Recognized as an "Outstanding Student Leader" at the university level
 
 ## Project Experience
 
@@ -49,10 +47,6 @@ I developed a web application with a Flask backend and a frontend based on EChar
 - **Web Development**: Flask, ECharts, Ajax
 - **Languages**: Proficient in English (CET-6)
 
-## Contact
-
-[Contact information would go here]
-
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -65,11 +59,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------

@@ -11,6 +11,41 @@ redirect_from:
 
 Education
 ======
+<!-- * M.S. in Software Engineering (Candidate), Peking University School of Software and Microelectronics, 2025 (expected) -->
+* B.S. in Software Engineering, Beijing University of Posts and Telecommunications, 2020-2024
+  * GPA: 3.72/4.0 (88.77/100)
+  * Class Ranking: Top 20%
+
+Work experience
+======
+* Summer 2023: ZRETC Intern
+  
+Skills
+======
+* Programming Languages
+  * Python 
+  
+* AI/Machine Learning
+  * Transformer Architecture
+  * LSTM Neural Networks
+  * Convolutional Neural Networks (CNN)
+  * Retrieval-Augmented Generation (RAG)
+  
+* Web Development
+  * Flask Framework
+  * ECharts Visualization
+  * MySQL Database
+  * Ajax Communication
+
+* Tools & Platforms
+  * Linux Environment
+  * Git Version Control
+  * Docker Containers
+  * Jupyter Notebooks
+  * LangGraph
+
+<!-- Education
+======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
@@ -39,7 +74,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
