@@ -1,12 +1,59 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhenhua Xu (许振华)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## About Me
+
+I am currently a graduate student candidate at Peking University School of Software and Microelectronics. I completed my undergraduate studies at Beijing University of Posts and Telecommunications (BUPT), majoring in Software Engineering in the School of Computer Science.
+
+During my undergraduate studies, I maintained a weighted average score of 88.77, with a GPA of 3.72, ranking in the top 20% of my major. I am also a member of the Chinese Communist Party.
+
+## Academic Interests
+
+I have a strong interest in artificial intelligence and its practical applications. I performed well in related courses such as Fundamentals of Artificial Intelligence and Data Mining. I also focused on developing my programming skills through courses like Python Programming and Linux Environment Development Applications.
+
+## Achievements
+
+- Passed the College English Test Band 6 (CET-6)
+- Received the University Second-Class Scholarship
+- Named an "Outstanding Student" at the university level
+- Recognized as an "Outstanding Student Leader" at the university level
+
+## Project Experience
+
+### Transformer-Based Stock Investment Assistant Model (Graduation Project)
+This research built upon a published methodology to generate feature sequences from daily stock trading data and label these sequences using specific algorithms. I implemented a hybrid model combining CNN with Transformer architecture that takes these sequences as input and outputs probabilities for buy, sell, or hold decisions. Ablation experiments demonstrated modest improvements over the original CNN-based approach and other simple models.
+
+### RAG-Based BUPT Forum Assistant
+This project utilized langgraph to build a workflow divided into retrieval and generation phases. The retrieval phase implemented a hybrid index using both BM25 and Embedding methods, while instruction-based language models were used to generate and evaluate results.
+
+### LSTM-Based Stock Price Prediction Website
+I developed a web application with a Flask backend and a frontend based on ECharts templates. The system used LSTM models for stock price prediction, stored historical and predicted data in MySQL, and implemented Ajax for communication between frontend and backend components.
+
+## Education
+
+- **Beijing University of Posts and Telecommunications** (BUPT)
+  - Bachelor's Degree in Software Engineering
+  - School of Computer Science
+  - GPA: 3.72/4.0 (88.77/100), Top 20%
+
+## Skills
+
+- **Programming Languages**: Python, Linux environment development
+- **AI/ML Frameworks**: Experience with Transformer models, LSTM, CNN
+- **Web Development**: Flask, ECharts, Ajax
+- **Languages**: Proficient in English (CET-6)
+
+## Contact
+
+[Contact information would go here]
+
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
@@ -46,4 +93,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
