@@ -1,51 +1,34 @@
 ---
 permalink: /
-title: "Zhenhua Xu"
+title: "huazhx"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## About Me
+# About Me
 
-I completed my undergraduate studies at Beijing University of Posts and Telecommunications (BUPT), majoring in Software Engineering in the School of Computer Science.
+I am currently pursuing a Master's degree in Artificial Intelligence at Peking University, building upon my undergraduate foundation in Software Engineering from Beijing University of Posts and Telecommunications (BUPT).
 
-During my undergraduate studies, I maintained a weighted average score of 88.77, with a GPA of 3.72, ranking in the top 20% of my major.
+# Academic Background & Interests
 
-## Academic Interests
+My academic journey has been driven by a deep fascination with artificial intelligence, particularly natural language processing and its real-world applications. I have finished some core courses including Fundamentals of Artificial Intelligence and CS224n, while strengthening my technical foundation through Python Programming and Linux Environment Development Applications.
 
-I have a strong interest in artificial intelligence and its practical applications. I performed well in related courses such as Fundamentals of Artificial Intelligence and Data Mining. I also focused on developing my programming skills through courses like Python Programming and Linux Environment Development Applications.
+# Technical Skills
 
-## Achievements
+**Programming & Development**
+- Python 
+- Linux environment development and system administration
+- Software engineering principles and best practices
 
-- Passed the College English Test Band 6 (CET-6)
-- Received the University Second-Class Scholarship
+**Languages**
+- English: CET-6 certified
+- Chinese: Native speaker
 
-## Project Experience
+# Current Focus
 
-### Transformer-Based Stock Investment Assistant Model (Graduation Project)
-This research built upon a published methodology to generate feature sequences from daily stock trading data and label these sequences using specific algorithms. I implemented a hybrid model combining CNN with Transformer architecture that takes these sequences as input and outputs probabilities for buy, sell, or hold decisions. Ablation experiments demonstrated modest improvements over the original CNN-based approach and other simple models.
-
-### RAG-Based BUPT Forum Assistant
-This project utilized langgraph to build a workflow divided into retrieval and generation phases. The retrieval phase implemented a hybrid index using both BM25 and Embedding methods, while instruction-based language models were used to generate and evaluate results.
-
-### LSTM-Based Stock Price Prediction Website
-I developed a web application with a Flask backend and a frontend based on ECharts templates. The system used LSTM models for stock price prediction, stored historical and predicted data in MySQL, and implemented Ajax for communication between frontend and backend components.
-
-## Education
-
-- **Beijing University of Posts and Telecommunications** (BUPT)
-  - Bachelor's Degree in Software Engineering
-  - School of Computer Science
-  - GPA: 3.72/4.0 (88.77/100), Top 20%
-
-## Skills
-
-- **Programming Languages**: Python, Linux environment development
-- **AI/ML Frameworks**: Experience with Transformer models, LSTM, CNN
-- **Web Development**: Flask, ECharts, Ajax
-- **Languages**: Proficient in English (CET-6)
+I am actively engaged in advancing my expertise in AI research and development, with particular emphasis on bridging the gap between cutting-edge NLP research and practical applications that can create meaningful impact.
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
