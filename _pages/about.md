@@ -19,8 +19,7 @@ My academic journey has been driven by a deep fascination with artificial intell
 
 **Programming & Development**
 - Python 
-- Linux environment development and system administration
-- Software engineering principles and best practices
+- Linux environment development 
 
 **Languages**
 - English: CET-6 certified
